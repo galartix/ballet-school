@@ -1,0 +1,14 @@
+/* Default */
+/* 
+    @media < 576px
+    @media > 576px and 768px <
+*/
+/* 
+    @media < 576px
+    1 container -> 2 col , backgroud (box) : red ,  backgroud (container) : green
+    size : w(box) : 80%
+    
+    @media < 576px and 768px <
+    1 container -> 3 col , backgroud (box) : green ,  backgroud (container) : red
+    size : w(box) : 40%
+*/
